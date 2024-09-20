@@ -12,13 +12,13 @@
       <outline title="Forbidden Stories" text="Forbidden Stories" type="rss" xmlUrl="https://forbiddenstories.org/feed/" htmlUrl="https://forbiddenstories.org/"/>
     </outline>
     <outline title="Science" text="Science">
-      <outline title="ScienceAlert - Latest" text="ScienceAlert - Latest" type="rss" xmlUrl="http://schwrtrrer:%40S3v6U%40MgraR@feeds.feedburner.com/sciencealert-latestnews" htmlUrl="https://www.sciencealert.com/"/>
+      <outline title="ScienceAlert - Latest" text="ScienceAlert - Latest" type="rss" xmlUrl="http://feeds.feedburner.com/sciencealert-latestnews" htmlUrl="https://www.sciencealert.com/"/>
     </outline>
     <outline title="News" text="News">
-      <outline title="VICE US" text="VICE US" type="rss" xmlUrl="https://schwrtrrer:%40S3v6U%40MgraR@www.vice.com/en/rss" htmlUrl="https://www.vice.com/en"/>
+      <outline title="VICE US" text="VICE US" type="rss" xmlUrl="https://www.vice.com/en/rss" htmlUrl="https://www.vice.com/en"/>
       <outline title="Block Club Chicago" text="Block Club Chicago" type="rss" xmlUrl="https://blockclubchicago.org/feed/" htmlUrl="https://blockclubchicago.org"/>
       <outline title="Religion News Service" text="Religion News Service" type="rss" xmlUrl="https://religionnews.com/feed/" htmlUrl="https://religionnews.com"/>
-      <outline title="Irish Examiner USA" text="Irish Examiner USA" type="rss" xmlUrl="http://schwrtrrer:%40S3v6U%40MgraR@irishexaminerusa.com/wp/?feed=rss2" htmlUrl="http://irishexaminerusa.com/wp"/>
+      <outline title="Irish Examiner USA" text="Irish Examiner USA" type="rss" xmlUrl="http://irishexaminerusa.com/wp/?feed=rss2" htmlUrl="http://irishexaminerusa.com/wp"/>
       <outline title="Atlantic Council" text="Atlantic Council" type="rss" xmlUrl="https://www.atlanticcouncil.org/feed/" htmlUrl="https://www.atlanticcouncil.org"/>
       <outline title="EL PAÍS in English" text="EL PAÍS in English" type="rss" xmlUrl="https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada" htmlUrl="https://english.elpais.com"/>
       <outline title="&#10;            Vatican News - English&#10;        " text="&#10;            Vatican News - English&#10;        " type="rss" xmlUrl="https://www.vaticannews.va/en.rss.xml" htmlUrl="https://www.vaticannews.va/en.html"/>
@@ -57,8 +57,8 @@
     <outline title="Science" text="Science"/>
     <outline title="Science" text="Science">
       <outline title="Livescience.com" text="Livescience.com" type="rss" xmlUrl="https://www.livescience.com/feeds/all" htmlUrl="https://www.livescience.com/feeds/all"/>
-      <outline title="Quanta Magazine" text="Quanta Magazine" type="rss" xmlUrl="https://schwrtrrer:%40S3v6U%40MgraR@api.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org"/>
-      <outline title="Science News" text="Science News" type="rss" xmlUrl="https://schwrtrrer:%40S3v6U%40MgraR@www.sciencenews.org/feed" htmlUrl="https://www.sciencenews.org"/>
+      <outline title="Quanta Magazine" text="Quanta Magazine" type="rss" xmlUrl="https://api.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org"/>
+      <outline title="Science News" text="Science News" type="rss" xmlUrl="https://www.sciencenews.org/feed" htmlUrl="https://www.sciencenews.org"/>
       <outline title="SAPIENS" text="SAPIENS" type="rss" xmlUrl="https://www.sapiens.org/feed/" htmlUrl="https://www.sapiens.org"/>
       <outline title="iNaturalist: Journal by iNaturalist" text="iNaturalist: Journal by iNaturalist" type="rss" xmlUrl="https://www.inaturalist.org/blog.atom" htmlUrl="https://www.inaturalist.org"/>
       <outline title="Latest Articles from ZooKeys" text="Latest Articles from ZooKeys" type="rss" xmlUrl="https://zookeys.pensoft.net/rss" htmlUrl="https://zookeys.pensoft.net/"/>
@@ -70,8 +70,8 @@
     <outline title="Nerdy &amp; Tech" text="Nerdy &amp; Tech">
       <outline title="Blog – The New Stack" text="Blog – The New Stack" type="rss" xmlUrl="https://thenewstack.io/blog/feed/" htmlUrl="https://thenewstack.io"/>
       <outline title="Sludge" text="Sludge" type="rss" xmlUrl="http://readsludge.com/feed/" htmlUrl="https://readsludge.com"/>
-      <outline title="TheSequence" text="TheSequence" type="rss" xmlUrl="https://schwrtrrer:%40S3v6U%40MgraR@thesequence.substack.com/feed" htmlUrl="https://thesequence.substack.com"/>
-      <outline title="DeCential" text="DeCential" type="rss" xmlUrl="https://schwrtrrer:%40S3v6U%40MgraR@www.decential.io/features?format=rss" htmlUrl="https://www.decential.io/"/>
+      <outline title="TheSequence" text="TheSequence" type="rss" xmlUrl="https://thesequence.substack.com/feed" htmlUrl="https://thesequence.substack.com"/>
+      <outline title="DeCential" text="DeCential" type="rss" xmlUrl="https://www.decential.io/features?format=rss" htmlUrl="https://www.decential.io/"/>
       <outline title="Web3 is going just great" text="Web3 is going just great" type="rss" xmlUrl="https://web3isgoinggreat.com/feed.xml" htmlUrl="https://web3isgoinggreat.com"/>
       <outline title="Ben meer system sunday" text="Ben meer system sunday" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/fs6sv785biaj2ut3.xml" htmlUrl="https://kill-the-newsletter.com/"/>
       <outline title="Chartbook" text="Chartbook" type="rss" xmlUrl="https://adamtooze.substack.com/feed" htmlUrl="https://adamtooze.substack.com"/>
@@ -99,7 +99,7 @@
     </outline>
     <outline title="Noisy News" text="Noisy News">
       <outline title="NYT &gt; Most Recent Headlines" text="NYT &gt; Most Recent Headlines" type="rss" xmlUrl="https://content.api.nytimes.com/svc/news/v3/all/recent.rss" htmlUrl="https://content.api.nytimes.com/svc/news/v3/all/recent.rss"/>
-      <outline title="The Independent World" text="The Independent World" type="rss" xmlUrl="https://schwrtrrer:%40S3v6U%40MgraR@www.independent.co.uk/news/world/rss" htmlUrl="https://www.independent.co.uk//news/world"/>
+      <outline title="The Independent World" text="The Independent World" type="rss" xmlUrl="https://www.independent.co.uk/news/world/rss" htmlUrl="https://www.independent.co.uk//news/world"/>
       <outline title="The Irish Times - News" text="The Irish Times - News" type="rss" xmlUrl="https://www.irishtimes.com/cmlink/news-1.1319192?mode=amp" htmlUrl=""/>
       <outline title="BBC News - World" text="BBC News - World" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/"/>
       <outline title="WION - world News Releases" text="WION - world News Releases" type="rss" xmlUrl="https://www.wionews.com/feeds/world/rss.xml" htmlUrl="https://www.wionews.com/"/>
@@ -107,7 +107,7 @@
       <outline title="☢️ WW3.INFO Battlefield Research" text="☢️ WW3.INFO Battlefield Research" type="rss" xmlUrl="https://rss.app/feeds/VIp9AHQlLIDh6lz0.xml" htmlUrl="https://t.me/s/WW3INFO"/>
     </outline>
     <outline title="Misc" text="Misc">
-      <outline title="The Intercept" text="The Intercept" type="rss" xmlUrl="https://schwrtrrer:%40S3v6U%40MgraR@theintercept.com/feed/?lang=en" htmlUrl="https://theintercept.com"/>
+      <outline title="The Intercept" text="The Intercept" type="rss" xmlUrl="https://theintercept.com/feed/?lang=en" htmlUrl="https://theintercept.com"/>
       <outline title="IndieWire" text="IndieWire" type="rss" xmlUrl="https://www.indiewire.com/feed/" htmlUrl="https://www.indiewire.com"/>
       <outline title="Kiosk Marketplace | Latest Media" text="Kiosk Marketplace | Latest Media" type="rss" xmlUrl="https://www.kioskmarketplace.com/rss/" htmlUrl="https://www.kioskmarketplace.com/rss/"/>
       <outline title="Hengaw News" text="Hengaw News" type="rss" xmlUrl="https://hengaw.net/en/news/rss.xml" htmlUrl="https://hengaw.net/en/news"/>
